@@ -1,38 +1,83 @@
 # 👋 Hello, I'm Labhesh Dhanmeher!
 
-🎓 **Engineering Student** | 💡 **Innovator** | 🤖 **Drones & Robotics Enthusiast**
+🎓 **Third-Year Electronics and Computer Science Engineering Student** | 💡 **Project Lead @ DROBOTICS Club SJCEM** | 🌐 **Campus Ambassador @ ISRC.ORG.IN** | 🤖 **Passionate About IoT, Embedded Systems, and Industrial IoT**
 
-I'm currently studying at **St. John College of Engineering and Management (SJCEM)**, actively involved in various technical clubs and projects that focus on **drones, robotics, and home automation**. Passionate about contributing to the **STEM field**, I enjoy working on projects related to **robotics, industrial automation, and IoT**.
+Based in **Palghar, Maharashtra**, I'm passionate about **Embedded Systems**, **IoT**, **EVs**, and **Industrial IoT Solutions**. I enjoy diving into real-world applications of these technologies through internships, club leadership roles, and projects.
 
 ## 🔭 What I'm Working On
 
-- **Home Automation Project** using **ESP8266** and **Sinric Pro Protocol**
-- **Arduino Joystick-Controlled Car** for a competition on robu.in
-- Organizing various technical events under **DROBOTICS Club** and **SPACE SJCEM**, including expert talks, competitions, and industrial visits
-- Exploring **IIOT and Industry 4.0** trends and sharing insights on the **DROBOTICS Club SJCEM LinkedIn** page
+- **Project Lead Head** at **DROBOTICS CLUB SJCEM**: Leading technical projects in **drones** and **robotics**.
+- **Campus Ambassador @ ISRC.ORG.IN**: Promoting innovation in IoT and robotics on campus.
+- Exploring **IIOT** and **Embedded System Design** through projects and internships.
 
-## 🌱 Learning & Development
+## 💼 Experience
 
-- **Industrial Automation** and **Robotic Arms** through field visits to companies like **ACG Associated Capsules Pvt. Ltd**
-- Deepening my knowledge of **Industry 4.0**, **IIOT**, and **Zero Pollution State** technologies
-- Competing in the **ISRC Innovative Engineer Award 2024** with my home automation project
+### **SPACE SJCEM**  
+**Media Head**  
+_August 2024 – Present | Palghar, Maharashtra_
 
-## 🏆 Recent Achievements
+### **ISRC.ORG.IN**  
+**Campus Ambassador**  
+_July 2024 – Present_
 
-- **Organized** a quiz competition on **World Engineering Day 2024**, focusing on drones and robots
-- **Coordinated** events like the **Treasure Hunt** at SJCEM under the **SPACE SJCEM** club
-- **Alumnus Connection**: Inspired by alumni like **Sumersingh K Rajpurohit** and resources like **Last Moment Tuitions**
+### **DROBOTICS CLUB SJCEM**  
+**Project Lead Head**  
+_July 2024 – Present | Palghar, Maharashtra_
+
+### **VCET Texas Instruments Innovation Lab**  
+**Summer Internship (Embedded System using TI Microcontrollers)**  
+_June 2024 | Vasai, Maharashtra_
+
+### **All India Council for Technical Education (AICTE)**  
+**Embedded System Developer Virtual Internship**  
+_April 2024 – June 2024_
+
+### **Pantech.AI**  
+**Internship on Embedded System Design & IoT**  
+_February 2024 – May 2024_
+
+### **Ayka Control Systems**  
+**Internship Trainee**  
+_December 2023 – January 2024 | Mumbai, Maharashtra_
+
+## 📚 Education
+
+### **University of Mumbai**  
+**Bachelor of Engineering (BE), Electronics And Computer Science**  
+_November 2022 – May 2026_
+
+### **Sonopant Dandekar Shikshan Mandali Science Jr College, Palghar**  
+**HSC, PCM (Computer Science)**  
+_August 2020 – March 2022_
+
+### **Sharadashram Vidyamandir Boy's High School & Jr College, Dadar**  
+**SSC**  
+_June 2013 – March 2020_
+
+## 🏆 Certifications
+
+- **TOYOTA**: Self-Charged Hybrid Electric Vehicle
+- **Diploma in Electric Vehicle Technology**
+- **Getting Started with PIC16 MCUs using MCC and State Machines**
+- **8-bit Microcontroller: Architecture of the PIC 16**
+- **C++**
+
+## 🔧 Top Skills
+
+- **Robotics**
+- **Robot Programming**
+- **AWS IoT**
 
 ## 📈 GitHub Stats
 
-![Labhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=labheshdhanmeher&show_icons=true&theme=radical)
+![Labhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
+- **Mobile**: 8828296546
+- **Email**: labheshdhanmeher5@gmail.com
 - **LinkedIn**: [Labhesh Dhanmeher](https://www.linkedin.com/in/labheshdhanmeher)
-- **Instagram**: @spaceofficial (for SPACE SJCEM club updates)
 
 ---
 
-"Exploring the realms of technology, one project at a time." 🚀
-
+_"Exploring the future of IoT, Embedded Systems, and Robotics, one project at a time."_ 🚀
